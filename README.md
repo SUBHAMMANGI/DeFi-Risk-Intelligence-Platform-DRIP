@@ -3,7 +3,7 @@
 > **Real-time risk monitoring for $124B+ across 100 DeFi protocols.**
 > Every protocol scored 0–100 like a credit rating agency scores a bond.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue?style=for-the-badge)]([https://subhammangi.github.io/DRIP](https://subhammangi.github.io/DeFi-Risk-Intelligence-Platform-DRIP-/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue?style=for-the-badge)](https://subhammangi.github.io/DeFi-Risk-Intelligence-Platform-DRIP-/)
 [![FinHack 2026](https://img.shields.io/badge/FinHack%202026-Case%203-green?style=for-the-badge)](https://github.com/subhammangi/DRIP)
 [![Zero Backend](https://img.shields.io/badge/Backend-None-lightgrey?style=for-the-badge)](https://github.com/subhammangi/DRIP)
 
@@ -23,7 +23,7 @@ The signal existed. No tool was watching for it.
 
 ## Live Demo
 
-🔗 **[https://subhammangi.github.io/DRIP/](https://subhammangi.github.io/DRIP/)**
+🔗 **[https://subhammangi.github.io/DeFi-Risk-Intelligence-Platform-DRIP-/](https://subhammangi.github.io/DeFi-Risk-Intelligence-Platform-DRIP-/)**
 
 No install. No signup. Open in any browser.
 
