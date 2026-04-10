@@ -1,11 +1,11 @@
-# 💧 DRIP — DeFi Risk Intelligence Platform
+# 💧 DRIP - DeFi Risk Intelligence Platform
 
 > **Real-time risk monitoring for $124B+ across 100 DeFi protocols.**
-> Every protocol scored 0–100 like a credit rating agency scores a bond.
+> Every protocol scored 0-100 like a credit rating agency scores a bond.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue?style=for-the-badge)](https://subhammangi.github.io/DeFi-Risk-Intelligence-Platform-DRIP-/)
-[![FinHack 2026](https://img.shields.io/badge/FinHack%202026-Case%203-green?style=for-the-badge)](https://github.com/subhammangi/DRIP)
-[![Zero Backend](https://img.shields.io/badge/Backend-None-lightgrey?style=for-the-badge)](https://github.com/subhammangi/DRIP)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-0969da?style=for-the-badge)](https://subhammangi.github.io/DeFi-Risk-Intelligence-Platform-DRIP-/)
+[![FinHack 2026](https://img.shields.io/badge/FinHack%202026-Case%203-2ea44f?style=for-the-badge)](https://github.com/subhammangi/DeFi-Risk-Intelligence-Platform-DRIP-)
+[![Zero Backend](https://img.shields.io/badge/Zero%20Backend-One%20HTML%20File-6e7681?style=for-the-badge)](https://github.com/subhammangi/DeFi-Risk-Intelligence-Platform-DRIP-)
 
 ---
 
@@ -31,7 +31,7 @@ No install. No signup. Open in any browser.
 
 ## What Is DRIP?
 
-DRIP monitors 100 DeFi protocols in real time and assigns each one a **DRIP Score™** (0–100) — a composite risk rating built from five weighted factors:
+DRIP monitors 100 DeFi protocols in real time and assigns each one a **DRIP Score™** (0-100) - a composite risk rating built from five weighted factors:
 
 | Component | Weight | What It Measures |
 |---|---|---|
@@ -42,10 +42,10 @@ DRIP monitors 100 DeFi protocols in real time and assigns each one a **DRIP Scor
 | Liquidity Risk | 10% | Exit depth - stampede risk |
 
 **Score ranges:**
-- 🟢 0–22 → HEALTHY — Hold / Add
-- 🔵 22–35 → MODERATE — Watch
-- 🟡 35–50 → ELEVATED — Reduce
-- 🔴 50–100 → HIGH RISK — Exit
+- 🟢 0-22 → HEALTHY - Hold / Add
+- 🔵 22-35 → MODERATE - Watch
+- 🟡 35-50 → ELEVATED - Reduce
+- 🔴 50-100 → HIGH RISK - Exit
 
 ---
 
@@ -53,9 +53,9 @@ DRIP monitors 100 DeFi protocols in real time and assigns each one a **DRIP Scor
 
 | Protocol | DRIP Score | Status | Result |
 |---|---|---|---|
-| Euler Finance | **75** | 🔴 HIGH RISK | Exploited for $197M — Mar 2023 |
-| Badger DAO | **63** | 🔴 HIGH RISK | Exploited for $120M — Dec 2021 |
-| Harvest Finance | **66** | 🔴 HIGH RISK | Exploited for $34M — Oct 2020 |
+| Euler Finance | **75** | 🔴 HIGH RISK | Exploited for $197M - Mar 2023 |
+| Badger DAO | **63** | 🔴 HIGH RISK | Exploited for $120M - Dec 2021 |
+| Harvest Finance | **66** | 🔴 HIGH RISK | Exploited for $34M - Oct 2020 |
 | Aave | **19** | 🟢 HEALTHY | Never exploited in 5+ years |
 
 **The model was right. Every time.**
@@ -68,34 +68,34 @@ DRIP monitors 100 DeFi protocols in real time and assigns each one a **DRIP Scor
 - 100-protocol health scorecard with live TVL, risk scores, and trend delta
 - Inline search + 10 sort options (highest risk, healthiest first, TVL, drawdown, audits, age)
 - 92 auto-detected risk alerts sorted by severity with filter (Critical / Warnings / Healthy)
-- Market Context panel — overall regime, TVL monitored, max recommended exposure
+- Market Context panel - overall regime, TVL monitored, max recommended exposure
 - Export current view to dated CSV
 
 ### 📈 Analytics (6 views)
-- **Risk Analysis** — Score distribution, bubble chart, category breakdown
-- **Stress Tests** — ETH drop 40%, major hack, DeFi black swan simulations
-- **Capital Flows** — 90-day TVL trends, category distribution, waterfall
-- **Compare** — Side-by-side up to 3 protocols
-- **Protocol Analyzer** — Enter any protocol metrics → instant DRIP Score + gauge
-- **Action Plan** — HOLD/WATCH/REDUCE/EXIT recommendations for all 100
+- **Risk Analysis** - Score distribution, bubble chart, category breakdown
+- **Stress Tests** - ETH drop 40%, major hack, DeFi black swan simulations
+- **Capital Flows** - 90-day TVL trends, category distribution, waterfall
+- **Compare** - Side-by-side up to 3 protocols
+- **Protocol Analyzer** - Enter any protocol metrics → instant DRIP Score + gauge
+- **Action Plan** - HOLD/WATCH/REDUCE/EXIT recommendations for all 100
 
 ### 📅 Historical Data
 - Real day-by-day TVL from DeFiLlama per-protocol API
-- Exploit events marked directly on chart — see TVL bleeding before the hack
+- Exploit events marked directly on chart - see TVL bleeding before the hack
 - Peak TVL, current TVL, max drawdown stats per protocol
 
 ### ⭐ My Watchlist
-- Star any protocol — see alerts only for what you're watching
-- Watchlist risk summary — avg DRIP, total TVL, high-risk count
+- Star any protocol - see alerts only for what you're watching
+- Watchlist risk summary - avg DRIP, total TVL, high-risk count
 - Persists across browser sessions via localStorage
 
 ### 💼 My Portfolio (3 modes)
-- **Connect Wallet** — paste Ethereum address → DeBank API reads all DeFi positions → auto-syncs every 2 min
-- **Import CSV** — drag & drop from Zerion, DeBank, Zapper, Coinbase, Binance
-- **Manual Entry** — select protocol + amount + portfolio %
+- **Connect Wallet** - paste Ethereum address → DeBank API reads all DeFi positions → auto-syncs every 2 min
+- **Import CSV** - drag & drop from Zerion, DeBank, Zapper, Coinbase, Binance
+- **Manual Entry** - select protocol + amount + portfolio %
 - Weighted DRIP Score by actual holdings
 - Personalised HOLD/WATCH/REDUCE/EXIT per position
-- Full persistence — wallet reconnects automatically on next visit
+- Full persistence - wallet reconnects automatically on next visit
 
 ---
 
@@ -163,7 +163,7 @@ All APIs are free, public, and CORS-enabled. Zero API keys required.
 
 DRIP Score adapted from **ConsenSys DeFi Score** (MIT License).
 
-Calibrated against 5 historical exploits where TVL anomalies appeared 1-6 weeks before the hack — Euler ($197M), Badger ($120M), Harvest ($34M), Yearn ($11M), Inverse ($15M).
+Calibrated against 5 historical exploits where TVL anomalies appeared 1-6 weeks before the hack - Euler ($197M), Badger ($120M), Harvest ($34M), Yearn ($11M), Inverse ($15M).
 
 ---
 
