@@ -4,8 +4,6 @@
 > Every protocol scored 0-100 like a credit rating agency scores a bond.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-0969da?style=for-the-badge)](https://subhammangi.github.io/DeFi-Risk-Intelligence-Platform-DRIP-/)
-[![FinHack 2026](https://img.shields.io/badge/FinHack%202026-Case%203-2ea44f?style=for-the-badge)](https://github.com/subhammangi/DeFi-Risk-Intelligence-Platform-DRIP-)
-[![Zero Backend](https://img.shields.io/badge/Zero%20Backend-One%20HTML%20File-6e7681?style=for-the-badge)](https://github.com/subhammangi/DeFi-Risk-Intelligence-Platform-DRIP-)
 
 ---
 
